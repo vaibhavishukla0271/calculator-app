@@ -9,3 +9,8 @@ npm install
 ```
 npm run serve
 ```
+
+#### Notes 
+
+As this is just a test task. This application is working based on only mouse/button clicks only. keyboard keypress currently not managed but if you want then I can manage that too. 
+
